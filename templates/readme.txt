@@ -1,0 +1,1 @@
+to get nodemon to inlcude hs and hbs files on every save, run - nodemon src/app.js -e js, hbs
